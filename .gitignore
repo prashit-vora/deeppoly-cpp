@@ -1,0 +1,9 @@
+build/
+models/
+output/
+data/*.ubyte
+data/*.gz
+*.bin
+*.o
+.DS_Store
+compile_commands.json
