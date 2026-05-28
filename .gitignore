@@ -3,6 +3,8 @@ models/
 output/
 data/*.ubyte
 data/*.gz
+mnist/
+*.pt
 *.bin
 *.o
 .DS_Store
